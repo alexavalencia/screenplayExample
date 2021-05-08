@@ -1,0 +1,13 @@
+com/certification/training/model/Product.class
+com/certification/training/tasks/SearchProduct.class
+com/certification/training/questions/TheButton.class
+com/certification/training/questions/The.class
+com/certification/training/tasks/ToRegister.class
+com/certification/training/userInterfaces/InterfaceToRegister.class
+com/certification/training/model/Register.class
+com/certification/training/userInterfaces/InterfacesSearchProduct.class
+com/certification/training/userInterfaces/MyAccount.class
+com/certification/training/questions/TheMessage.class
+com/certification/training/tasks/OpenBrowser.class
+com/certification/training/hooks/SetUpStage.class
+com/certification/training/questions/TheUser.class

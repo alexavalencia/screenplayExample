@@ -1,0 +1,4 @@
+com/certification/training/stepDefinitions/ToRegisterStepDefinition.class
+com/certification/training/stepDefinitions/SearchProductStepDefinitions.class
+com/certification/training/runners/SearchProduct.class
+com/certification/training/runners/ToRegister.class
